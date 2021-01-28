@@ -9,5 +9,5 @@ cask "scrcpyui" do
 
   app "scrcpyui.app"
 
-  depends_on formula : "scrcpy"
+  depends_on formula: "scrcpy"
 end
