@@ -1,8 +1,8 @@
 cask "scrcpyui" do
-  version "1.0"
-  sha256 "0f9bbac7321415543a03665f1aa37aa4411ff3d5853d807c1dfa6c66be186051"
+  version "1.1"
+  sha256 "b765ef555e8cab230a16297f1cf9e637d2507c44d896a25dd8fe689409988678"
 
-  url "https://github.com/pedrofraca/scrcpyui/releases/download/v1.0/scrcpyui.dmg"
+  url "https://github.com/pedrofraca/scrcpyui/releases/download/v1.1/scrcpyui.dmg"
   name "scrcpyui"
   desc "Small project to provide UI access for the scrcpy tool"
   homepage "https://github.com/pedrofraca/scrcpyui/"
